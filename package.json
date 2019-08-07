@@ -1,0 +1,13 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "dev": "parcel ./source/index.html",
+    "build": "parcel build ./source/index.html"
+  }
+}
